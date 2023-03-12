@@ -17,6 +17,14 @@ Once a button push happens, the following events occur:
 - Send an event to Home Assistant via the MQTT broker
 - Perform Home Assistant automations (such as send message to your phone)
 
+# WARNING - DISCLAIMER
+
+**Some circuits in your home carry high voltage which can be lethal if handled incorrectly**
+
+**Do not attempt this project unless you are confident that you can avoid high voltage circuits**
+
+**Isolate circuits before you attempt this project and then proceed at your own risk**
+
 ## Components / Shopping List
 
 These are components that the project is designed for, but I'm sure many alternatives will work with slight modifications
