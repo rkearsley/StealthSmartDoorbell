@@ -19,13 +19,16 @@ Once a button push happens, the following events occur:
 
 ## Components / Shopping List
 
-These are components that I used, but I'm sure many alternatives are available
+These are components that the project is designed for, but I'm sure many alternatives will work with slight modifications
 
 - [Adafruit Feather HUZZAH ESP8266](https://learn.adafruit.com/adafruit-feather-huzzah-esp8266)
 - [5V Relay Module, Opto-coupler isolated](https://www.ebay.co.uk/itm/164736285470)
 - 5v USB wall charger
-- Terminal strip/block (or Wago or Ideal connectors)
-- JST male and female connectors (to easily remove/isolate the Arduino and relay from the circuit in case of problems)
+
+Optional components 
+
+- Terminal strip/block (or Wago or Ideal connectors) used to splice in to existing wiring
+- JST male and female connectors (to easily remove/isolate the Arduino and relay from the circuit in case of issues)
 
 ## Circuit Diagram
 
