@@ -29,4 +29,6 @@ These are components that I used, but I'm sure many alternatives are available
 
 ## Circuit Diagram
 
+![Circuit Diagram](images/CircuitDiagram.png)
+
 ## Photos
